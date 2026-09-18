@@ -1,7 +1,7 @@
 # Smart Parking Platform — Semester Project
 
 **Course:** CIS 4374 — Software Project Management, Section H
-**Student:** Dinh (Tam) Pham
+**Student:** Dinh Pham
 **Company:** $oftware ¢orp. (fictitious)
 
 A project management plan for a platform that helps drivers find, reserve, and pay for garage parking in real time, and gives parking operators live occupancy and pricing tools.
@@ -21,3 +21,4 @@ Current version: see the Document Control table on page 1 of the document.
 | Week | Version | Added |
 |---|---|---|
 | 1 | 1.0 | Existing software landscape, Vision & Scope, SRS draft with 22 use cases |
+| 2 | 1.1 | Work Breakdown Structure, draft timeline, Gantt chart |
