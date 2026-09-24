@@ -22,3 +22,4 @@ Current version: see the Document Control table on page 1 of the document.
 |---|---|---|
 | 1 | 1.0 | Existing software landscape, Vision & Scope, SRS draft with 22 use cases |
 | 2 | 1.1 | Work Breakdown Structure, draft timeline, Gantt chart |
+| 3 | 1.2 | Product backlog (63 user stories) and Sprint 1 plan |
