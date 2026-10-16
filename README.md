@@ -25,3 +25,4 @@ Current version: see the Document Control table on page 1 of the document.
 | 3 | 1.2 | Product backlog (63 user stories) and Sprint 1 plan |
 | 4 | 1.3 | Risk register, probability and impact matrix, communication plan |
 | 5 | 1.4 | Roles and resource plan, bottom-up cost plan with cashflow, RACI matrix |
+| 6 | 1.5 | Consistency pass — traceability matrix, story split, effort by work package, acceptance criteria, risk triggers, EMV, stakeholder matrix, EV baseline |
