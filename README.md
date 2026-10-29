@@ -12,6 +12,8 @@ A project management plan for a platform that helps drivers find, reserve, and p
 |---|---|
 | `Smart_Parking_Platform_Project_Document.docx` | **The project document.** This is the only file that matters. It is updated every week. |
 | `figures/` | Images used in the document |
+| `project-charter.pdf` | Appendix A, as a standalone file |
+| `team-charter.pdf` | Appendix B, as a standalone file |
 | `WEEKLY-UPDATE-GUIDE.md` | My checklist for updating the document each week |
 
 Current version: see the Document Control table on page 1 of the document.
@@ -26,3 +28,4 @@ Current version: see the Document Control table on page 1 of the document.
 | 4 | 1.3 | Risk register, probability and impact matrix, communication plan |
 | 5 | 1.4 | Roles and resource plan, bottom-up cost plan with cashflow, RACI matrix |
 | 6 | 1.5 | Consistency pass — traceability matrix, story split, effort by work package, acceptance criteria, risk triggers, EMV, stakeholder matrix, EV baseline |
+| 7 | 1.6 | Stakeholder power-interest grid, project charter, team charter |
