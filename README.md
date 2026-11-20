@@ -31,3 +31,4 @@ Current version: see the Document Control table on page 1 of the document.
 | 6 | 1.5 | Consistency pass — traceability matrix, story split, effort by work package, acceptance criteria, risk triggers, EMV, stakeholder matrix, EV baseline |
 | 7 | 1.6 | Stakeholder power-interest grid, project charter, team charter |
 | 8 | 1.7 | Draft project closure report (Appendix C, internal) |
+| 9 | 1.8 | Sprint backlogs for all four sprints, sprint cadence on the Gantt chart, Trello board reorganised by sprint, full version history, closure report updated to actuals, post-project maintenance and scaling proposal |
